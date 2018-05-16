@@ -1,2 +1,2 @@
 # my-first-graphql
-Excercise with React and GraphQL following the youtube tutotial from @iamshaunjp
+Exercise with React and GraphQL following the youtube tutotial from @iamshaunjp
