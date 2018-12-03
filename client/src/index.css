@@ -84,3 +84,16 @@ form button{
   box-sizing: border-box;
   color: #fff;
 }
+
+.other-books{
+  list-style-type: none;
+}
+
+.other-books li {
+  border: 1px solid rgb(51, 51, 51);
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: rgba(122, 122, 122, 0.5);
+  box-shadow: 5px 5px 10px #3f3f3f5d;
+}
