@@ -3,7 +3,7 @@ import gql from 'graphql-tag'
 import { Query } from 'react-apollo';
 import BookDetails from './BookDetails'
 
-const BOOKS_QUERY = gql`
+export const BOOKS_QUERY = gql`
   query BooksQuery {
     books{
       id
